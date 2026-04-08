@@ -1,5 +1,3 @@
-//https://learn.microsoft.com/pt-br/training/modules/get-started-ai-fundamentals/1-introduction?pivots=text
-
 //1
 //const num1 = 10;
 //const num2 = 5;
